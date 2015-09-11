@@ -1,21 +1,34 @@
-- Efficient troubleshooter:
-    primary:
-      - Empathy training through Apple, Inc.
-      - Utlizies deduction to isolate the source of an error
-      - Considers and researches all possible solutions before moving forward resolving errors
-    secondary:
-      - Strong analogy creator
+- name: Empathy
+  level:
+    description: Expert
+    value: 100
 
-- Adaptive Learner:
-    - Tested experience adapting new skills, or a new workflow quickly.
+- name: Troubleshooting
+  level:
+    description: Proficient
+    value: 90
 
-- Multi-tasking:
-    primary:
-      - Familiar with maintaining focus on various projects at once
-    secondary:
-      - Recognizes the importance of attention to detail in technical support.
+- name: Analogy Creator
+  level:
+    description: Proficient
+    value: 95
 
-- Interpersonal savvy:
-    primary:
-      - Ability to give and receive specific constructive feedback
-      - Cultivate, and enrich, long lasting relationships with peers
+- name: Adaptive Learner
+  level:
+    description: Proficient
+    value: 95
+
+- name: Focus Tasking
+  level:
+    description: Proficient
+    value: 90
+
+- name: Interpersonal Savvy
+  level:
+    description: Proficient
+    value: 90
+
+- name: Git
+  level:
+    description: Proficient
+    value: 70

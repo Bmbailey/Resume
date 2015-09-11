@@ -1,8 +1,8 @@
 language: en-US
-name: Joey Jo-Jo Jr. Shabadoo
-title: My résumé
-description: Everything you have always wanted to know.
-timezone: America/New_York
+name: Brian M. Bailey
+title: Brian M. Bailey's resume
+description: Brian's resume site
+timezone: Central/ Texas
 
 #-- Local configuration
 detach:  false
