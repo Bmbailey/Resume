@@ -1,0 +1,14 @@
+- name: Ruby
+  level:
+    description: Expert
+    value: 100
+
+- name: Git
+  level:
+    description: Proficient
+    value: 80
+
+- name: Jekyll
+  level:
+    description: Intermediate
+    value: 58
