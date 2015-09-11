@@ -1,14 +1,21 @@
-- name: Ruby
-  level:
-    description: Expert
-    value: 100
+- Efficient troubleshooter:
+    primary:
+      - Empathy training through Apple, Inc.
+      - Utlizies deduction to isolate the source of an error
+      - Considers and researches all possible solutions before moving forward resolving errors
+    secondary:
+      - Strong analogy creator
 
-- name: Git
-  level:
-    description: Proficient
-    value: 80
+- Adaptive Learner:
+    - Tested experience adapting new skills, or a new workflow quickly.
 
-- name: Jekyll
-  level:
-    description: Intermediate
-    value: 58
+- Multi-tasking:
+    primary:
+      - Familiar with maintaining focus on various projects at once
+    secondary:
+      - Recognizes the importance of attention to detail in technical support.
+
+- Interpersonal savvy:
+    primary:
+      - Ability to give and receive specific constructive feedback
+      - Cultivate, and enrich, long lasting relationships with peers
