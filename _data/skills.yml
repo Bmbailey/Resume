@@ -1,3 +1,8 @@
+- name: Videography
+  level:
+    description: Expert
+    value: 100
+
 - name: Empathy
   level:
     description: Expert
