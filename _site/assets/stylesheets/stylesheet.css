@@ -189,7 +189,7 @@ h4 {
   font-size: 1.2em;
   border-radius: 5px; }
   .tag:before {
-    content: "\f00c";
+    content: "\f004";
     font-family: FontAwesome;
     font-style: normal;
     font-weight: normal;

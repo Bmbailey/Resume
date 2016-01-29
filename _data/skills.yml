@@ -32,24 +32,18 @@
   level:
     description: Proficient
     value: 70
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 - name: HTML/ CSS/ Basic coding understanding
   level:
     description: Proficient
     value: 70
-=======
 
 - name: HTML/ CSS/ Basic coding understanding
   level:
     description: Proficient
     value: 70
->>>>>>> 6745faf8e27adc72ceab326cbcd499a9b9028004
-=======
-    
+
 - name: HTML/ CSS/ Basic coding understanding
   level:
     description: Proficient
-    value: 70    
->>>>>>> origin/gh-pages
+    value: 70
