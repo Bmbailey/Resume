@@ -33,7 +33,7 @@
     description: Proficient
     value: 70
 
-- name: HTML/ CSS/ Basic coding understanding
+- name: HTML/ CSS/ Javascript
   level:
     description: Proficient
-    value: 70
+    value: 80
