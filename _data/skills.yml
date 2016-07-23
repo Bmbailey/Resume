@@ -1,3 +1,8 @@
+- name: HTML/ CSS/ Javascript
+  level:
+    description: Proficient
+    value: 90
+
 - name: Empathy
   level:
     description: Expert
@@ -32,8 +37,3 @@
   level:
     description: Proficient
     value: 70
-
-- name: HTML/ CSS/ Javascript
-  level:
-    description: Proficient
-    value: 80
