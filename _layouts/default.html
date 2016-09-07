@@ -48,8 +48,6 @@
                   <h3>{{ period.title }}</h3>
                   <h4>{{ period.company }}</h4>
                   {% for paragraph in period.description %}
-                  {% if contact.link %}
-                    <a href="{{ contact.link }}" target="_blank">{{ contact.link }}</a>
                   <p>
                     {{ paragraph }}
                   </p>
