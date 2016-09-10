@@ -2,20 +2,29 @@
   company: Diagram Films
   year: Today
   description:
-    - Freelance technical consultant for small production companies
     - Produces and edits short films, music videos, and commerical video.
     - Experienced Director, Camera Operator, Camera Assistant and Grip
+    - Freelance technical consultant for small production companies
 
-- title: DIT - National TCU Commercial
-  title: Asst. Camera - SONY FS7 - Dallas Cowboys
-  company: N8 Visuals
+- title: Videographer
+  company: Various
   year: 2016
+  description:
+    - DIT, National Commercial - Texas Christian Universtiy - N8 Visuals
+    - Lead Videographer, Sofar Sounds - Dallas / Fort Worth
+    - Asst. Camera, Sony FS7, Commercial - Dallas Cowboys - N8 Visuals
+    - Asst. Camera, Canon C100, Training Video - Rockler Hardware - THINQ Design
+    - Grip, Feature - Bad Idea Gone Wrong - Red Productions
+    - Editor, Director, DP, Music Video - Your Love Could Start A War - The Unlikely Candidates
+    - Editor, Commercial - 2016 RNC Names AT&T Official Provider - AT&T Creative Media Services
 
-- title: Lead Videographer - Dallas/ Fort Worth
-  company: Sofar Sounds
-
-- title: Camera Operator / Editor
-  company: Tennison Visuals
+- title: Family Room Specialist
+  company: Apple, Inc.
+  year: 2012
+  description:
+    - Interpersonal reputation built on putting out fires and repairing relationships.
+    - Utilized technical understanding and passion to help others.
+    - NPS score remained in the 90's consistently
 
 - title: Specialist
   company: Apple, Inc.
