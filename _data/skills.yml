@@ -1,27 +1,27 @@
-- name: Adobe Premier Pro
+- name: Premier Pro CC
   level:
     description: Proficient
     value: 95
 
-- name: Empathy
+- name: Media Encoder CC
   level:
     description: Expert
-    value: 100
+    value: 90
 
-- name: Troubleshooting
+- name: Photoshop CC
+  level:
+    description: Proficient
+    value: 80
+
+- name: Pluraleyes
   level:
     description: Proficient
     value: 90
 
-- name: Analogy Creator
+- name: After Effects CC
   level:
     description: Proficient
-    value: 95
-
-- name: Adaptive Learner
-  level:
-    description: Proficient
-    value: 95
+    value: 50
 
 - name: Focus Tasking
   level:
@@ -32,8 +32,3 @@
   level:
     description: Proficient
     value: 90
-
-- name: Git
-  level:
-    description: Proficient
-    value: 70
