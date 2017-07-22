@@ -1,27 +1,17 @@
-- name: Premier Pro CC
+- name: Inventory Control
   level:
     description: Proficient
     value: 95
 
-- name: Media Encoder CC
+- name: Something Something
   level:
     description: Expert
     value: 90
 
-- name: Photoshop CC
+- name: SAP ERP System
   level:
     description: Proficient
     value: 80
-
-- name: Pluraleyes
-  level:
-    description: Proficient
-    value: 90
-
-- name: After Effects CC
-  level:
-    description: Proficient
-    value: 50
 
 - name: Focus Tasking
   level:
