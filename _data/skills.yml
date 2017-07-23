@@ -1,14 +1,19 @@
-- name: Inventory Control
+- name: Inventory Management and Distribution
   level:
     description: Proficient
     value: 95
 
-- name: TESTING
+- name: Computing skills and Knowledge
   level:
     description: Expert
-    value: 90
+    value: 95
 
 - name: SAP ERP System
+  level:
+    description: Proficient
+    value: 80
+
+- name: Forklift Experience
   level:
     description: Proficient
     value: 80
