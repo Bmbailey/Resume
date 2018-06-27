@@ -3,22 +3,22 @@
     description: Proficient
     value: 95
 
-- name: Computing skills and Knowledge
+- name: Computing Skills and Knowledge
   level:
     description: Expert
     value: 95
 
-- name: SAP ERP System
+- name: Customer Experience Development
+  level:
+    description: Expert
+    value: 90
+
+- name: Product Development and Quality Control
   level:
     description: Proficient
-    value: 80
+    value: 85
 
-- name: Forklift Experience
-  level:
-    description: Proficient
-    value: 80
-
-- name: Focus Tasking
+- name: Workflow Management
   level:
     description: Proficient
     value: 90
