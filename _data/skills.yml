@@ -1,14 +1,14 @@
-- name: Inventory Management and Distribution
+- name: Customer Support
   level:
     description: Proficient
     value: 95
 
-- name: Computing Skills and Knowledge
+- name: Inventory Management and Distribution
   level:
     description: Expert
     value: 95
 
-- name: Customer Experience Development
+- name: Computing Skills and Knowledge
   level:
     description: Expert
     value: 90
