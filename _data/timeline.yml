@@ -1,6 +1,14 @@
+- title: Staff Videographer
+  company: Evangalist Agency
+  year: 2019
+  description:
+    - 
+    -
+    -
+
 - title: Operations Manager
   company: Avoca Coffee Roasters
-  year: Today
+  year: 2018
   description:
     - Manage roasting production, cold brew keg assembly, shipping and packaging teams.
     - Generate daily tasks and production guidelines for distribution, while avoiding wasting raw materials.
@@ -9,14 +17,14 @@
     - Maintain growth for company subscription service
     - Coordinate and organize resupply of items needed for production.
     - Generated production policies to maintain a consistent customer experience
-    - Reorganized new team member training experience 
+    - Reorganized new team member training experience
 
 - title: Freelance Videographer
-  company: Various
+  company: TV / Film / Commercial
   year: 2015
   description:
-    - Project Development, various projects
-    - Known for team coordination and quality control
+    - Deadline driven video development and delivery
+    - Experienced camera operator and editor
     - Harnessed Ability to work efficently in any enviorment
 
 - title: Technial Support
@@ -34,12 +42,3 @@
     - Provided technical knowledge and understanding to help others with phone and computer purchases.
     - Provided training to customers through group workshops
     - Assisted customers with device set ups, data transfers and small component replacements.
-
-- title: Inventory & Distribution
-  company: Fort Worth Star Telegram
-  year: 2006
-  description:
-    - 5 Years Inventory control experience
-    - Performed daily cycle counts
-    - Organized daily product distribution
-    - Maintained monthly accounts
