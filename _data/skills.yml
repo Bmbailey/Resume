@@ -1,9 +1,9 @@
-- name: Customer Support
+- name: Videography
   level:
     description: Proficient
     value: 95
 
-- name: Inventory Management and Distribution
+- name: Video Editing
   level:
     description: Expert
     value: 95
@@ -13,12 +13,12 @@
     description: Expert
     value: 90
 
-- name: Product Development and Quality Control
+- name: Project Development and Quality Control
   level:
     description: Proficient
-    value: 85
+    value: 90
 
-- name: Workflow Management
+- name: Photographer
   level:
     description: Proficient
     value: 90
