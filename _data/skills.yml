@@ -1,24 +1,19 @@
-- name: Videography
+- name: Strong Communicator
   level:
     description: Proficient
     value: 95
 
-- name: Video Editing
+- name: Product Development
   level:
     description: Expert
     value: 95
 
-- name: Computing Skills and Knowledge
+- name: Team Collaboration and Management
   level:
     description: Expert
     value: 90
 
-- name: Project Development and Quality Control
-  level:
-    description: Proficient
-    value: 90
-
-- name: Photographer
+- name: Quantitative Reasoning
   level:
     description: Proficient
     value: 90
@@ -27,3 +22,14 @@
   level:
     description: Proficient
     value: 90
+
+- name: SQL
+  level:
+    description: Proficient
+    value: 90
+
+- name: Javascript
+  level:
+    description: Proficient
+    value: 50
+    
